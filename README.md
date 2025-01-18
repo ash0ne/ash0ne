@@ -20,7 +20,7 @@ I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), spec
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash0ne&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash0ne&layout=compact)
 
 ---
 
