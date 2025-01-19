@@ -52,7 +52,7 @@ I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), spec
 
 ---
 
-### 🌐 Connect With Me
+### 🔭 Find Me Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ash0ne/) 
 [![Portfolio](https://img.shields.io/badge/-ash0ne.com-FF1D8E?logo=firefox&logoColor=fff)](https://ash0ne.com) 
