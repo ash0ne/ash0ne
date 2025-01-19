@@ -7,18 +7,46 @@ I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), spec
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7B42BC?logo=kotlin&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=fff) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff)
+<picture>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7B42BC?logo=kotlin&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=fff">
+</picture>
+<picture>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000">
+</picture>
+<picture>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
+</picture>
+<picture>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000">
+</picture>
+<picture>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff">
+</picture>
+<picture>
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=fff">
+</picture>
+
+
+<!-- Empty heading for space -->
+#### 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash0ne&layout=compact)
 
