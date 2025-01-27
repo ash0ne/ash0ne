@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Ashwin
 I'm passionate about privacy, security, and self-hosting, with a deep love for almost anything related to computers, code, microcontrollers, and retro processors.
 
-I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), specialising in JS and Java focused Full-Stack Development and Kubernetes.
+I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), specialising in JS, Java focused Full-Stack Development and Kubernetes.
 
 ---
 
